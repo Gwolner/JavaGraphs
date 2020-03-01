@@ -1,3 +1,12 @@
 # Pie and Bar Graphs
 
-Uso da lib JFreeChart na construção de gráficos dos tipos barra e pizza.
+Aprendendo a usar a lib JFreeChart na criação de gráficos dos tipos barra e pizza no Java.
+O tipo de gráfico que se deseja usar pra exibir os dados é 
+
+* Pizza
+
+<img src="/img/pizza.png">
+
+* Barra
+
+<img src="/img/barra.png">
