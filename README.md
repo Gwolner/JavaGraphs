@@ -71,10 +71,11 @@ Em categorias, selecione `Biblioteca` e depois em `Adicionar JAR/Pasta`
 Na janela que abrir, navegue ate a pasta onde descompactou o JFreeChart.
 <img src="/img/dir2.png">
 
-Acesse o diretório `lib` e dentro dele selecione os arquivos `jcommon-1.0.23`,`jfreechart-1.0.19` e `swtgraphics2d` e clique em Abrir.
+Acesse o diretório `lib` e dentro dele selecione os arquivos `jcommon-1.0.23`,`jfreechart-1.0.19` e `swtgraphics2d` e clique em Abrir e em seguida em Ok.
 <img src="/img/lib.png">
 
 Observe que a pasta `Bibliotecas` do projeto contém os respectivos arquivos. Agora a lib está pronta para uso.
+<img src="/img/ok.png">
 
 ## Testando a lib
 
