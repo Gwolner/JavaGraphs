@@ -57,25 +57,32 @@ Baixe o `jfreechart-1.0.19.jar`.
 ## Adicionando a lib ao projeto
 
 Este projeto foi desenvolvido no Netbeans, então os passos para se associar o JFreechart ao projeto será conforme esta IDE.
-<img src="/img/netbeans.png">
+
+<img src="/img/netbeans.PNG">
 
 Crie um diretório e descompacte o arquivo `jfreechart-1.0.19.jar`. Esta diretório será usado para o projeto consumir a lib.
-<img src="/img/dir1.png">
+
+<img src="/img/dir1.PNG">
 
 Dentro do Netbeans, clique com o botão direito do mouse sobre o projeto e escolha `Propriedades`. Será aberta uma nova janela.
-<img src="/img/janela.png">
 
-Em categorias, selecione `Biblioteca` e depois em `Adicionar JAR/Pasta`   
-<img src="/img/add.png">
+<img src="/img/janela.PNG">
+
+Em categorias, selecione `Biblioteca` e depois em `Adicionar JAR/Pasta`.
+
+<img src="/img/add.PNG">
 
 Na janela que abrir, navegue ate a pasta onde descompactou o JFreeChart.
-<img src="/img/dir2.png">
+
+<img src="/img/dir2.PNG">
 
 Acesse o diretório `lib` e dentro dele selecione os arquivos `jcommon-1.0.23`,`jfreechart-1.0.19` e `swtgraphics2d` e clique em Abrir e em seguida em Ok.
-<img src="/img/lib.png">
+
+<img src="/img/lib.PNG">
 
 Observe que a pasta `Bibliotecas` do projeto contém os respectivos arquivos. Agora a lib está pronta para uso.
-<img src="/img/ok.png">
+
+<img src="/img/ok.PNG">
 
 ## Testando a lib
 
