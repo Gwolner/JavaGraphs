@@ -2,7 +2,7 @@
 
 > Demonstração do uso da lib JFreeChart e do design patterns Strategy para alternar entre a criação de gráficos dos tipos barra e pizza em aplicações Java.
 
-## Baixando a lib
+## ⬇ Baixando a lib
 
 Acesse o site oficial do JFreeChart clicando [aqui](http://www.jfree.org/jfreechart/).
 
@@ -54,7 +54,7 @@ jfreechart-1.0.19.pom.sha1                        2014-07-31 12:34        40
 
 Baixe o `jfreechart-1.0.19.jar`.
 
-## Adicionando a lib ao projeto
+## 📦 Adicionando a lib ao projeto
 
 Este projeto foi desenvolvido no Netbeans, então os passos para se associar o JFreechart ao projeto será conforme esta IDE.
 
@@ -84,7 +84,7 @@ Observe que a pasta `Bibliotecas` do projeto contém os respectivos arquivos. Ag
 
 <img src="/img/ok.PNG">
 
-## Testando a lib
+## 📑 Testando a lib
 
 A exibição do grafico se feita ao executar a classe `TesteGrafico`.
 
@@ -122,7 +122,7 @@ Atribuindo comportamento de Barra ao gráfico
 graf.setGraficBehavier(new GraficoDeBarra());
 ```
 
-## Gráficos gerados 
+## 📈 Gráficos gerados 
 
 ### Pizza
 
