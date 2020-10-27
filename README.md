@@ -58,7 +58,7 @@ Baixe o `jfreechart-1.0.19.jar`.
 
 Este projeto foi desenvolvido no Netbeans, então os passos para se associar o JFreechart ao projeto será conforme esta IDE.
 
-<img src="/img/netbeans.PNG" width="150" height="60">
+<a href="https://netbeans.apache.org/download/index.html"><img src="/img/netbeans.PNG" width="150" height="60"></a>
 
 Crie um diretório e descompacte o arquivo `jfreechart-1.0.19.jar`. Esta diretório será usado para o projeto consumir a lib.
 
